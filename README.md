@@ -5,14 +5,14 @@ I am a BTech second-year student with a strong technical curiosity and a solid d
 ---
 
 ## 🌐 Socials:
-[Instagram](https://www.instagram.com/m_sachin_15/#)  
-[LinkedIn](https://www.linkedin.com/in/sachin-mishra-325444271/)  
+![Instagram Badge](https://www.instagram.com/m_sachin_15/#)  
+![LinkedIn Badge](https://www.linkedin.com/in/sachin-mishra-325444271/)  
 📧 sachinofficial223204@gamil.com
 
 ---
 
 ## 🏆 DSA:
-![LeetCode Stats](https://leetcard.jacoblin.cool/Dee223204?theme=dark&font=Baloo+Bhai&ext=heatmap)
+![LeetCode Badge](https://leetcard.jacoblin.cool/Dee223204?theme=dark&font=Baloo+Bhai&ext=heatmap)
 
 
 ---
