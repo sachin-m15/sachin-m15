@@ -12,7 +12,8 @@ I am a BTech second-year student with a strong technical curiosity and a solid d
 ---
 
 ## 🏆 DSA:
-[LeetCode](https://leetcode.com/u/Dee223204)  
+![LeetCode Stats](https://leetcard.jacoblin.cool/Dee223204?theme=dark&font=Baloo+Bhai&ext=heatmap)
+
 
 ---
 
