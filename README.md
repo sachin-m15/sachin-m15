@@ -25,6 +25,7 @@ I am a BTech second-year student with a strong technical curiosity and a solid d
 ![Python Badge](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
 ![Machine Learning Badge](https://img.shields.io/badge/Machine%20Learning-%2300BFFF.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![InPy Badge](https://img.shields.io/badge/InPy-%23005588.svg?style=for-the-badge&logo=python&logoColor=white)
+![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
 ![Streamlit Badge](https://img.shields.io/badge/Streamlit-%23FF4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Spyder Badge](https://img.shields.io/badge/Spyder-FF0000.svg?style=for-the-badge&logo=spyder-ide&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white)
