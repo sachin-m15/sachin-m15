@@ -2,6 +2,9 @@
 
 ## ✏️ About Me:
 I am a BTech second-year student with a strong technical curiosity and a solid drive to build meaningful projects. I am passionate about blending theory with hands-on application. I am not afraid to get deep into the weeds of implementation—working with SFML in C++, TensorFlow in Python, and exploring tools like Streamlit and Gradio to enhance UI/UX.
+
+![Language Demo](./lang.gif)
+
 ---
 
 ## 🌐 Socials:
@@ -13,8 +16,6 @@ I am a BTech second-year student with a strong technical curiosity and a solid d
 
 ## 🏆 DSA:
 [![LeetCode Badge](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Dee223204/)
-
-
 
 ---
 
@@ -33,6 +34,7 @@ I am a BTech second-year student with a strong technical curiosity and a solid d
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-%235C3EE8.svg?style=for-the-badge&logo=opencv&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-%23FF4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
+g?style=for-the-badge&logo=streamlit&logoColor=white)
 
 
 ---
