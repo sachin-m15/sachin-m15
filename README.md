@@ -1,9 +1,11 @@
-# Hi! 👋 Nice to Meet You 😊
+![Greeting GIF](https://raw.githubusercontent.com/alansmathew/alansmathew/master/lang.gif)
+
+# Hi! 👋 Nice to Meet You(https://raw.githubusercontent.com/alansmathew/alansmathew/master/lang.gif) 😊
 
 ## ✏️ About Me:
 I am a BTech second-year student with a strong technical curiosity and a solid drive to build meaningful projects. I am passionate about blending theory with hands-on application. I am not afraid to get deep into the weeds of implementation—working with SFML in C++, TensorFlow in Python, and exploring tools like Streamlit and Gradio to enhance UI/UX.
 
-![Greeting GIF](https://github.com/your-username/your-repo-name/blob/main/lang.gif?raw=true)
+
 
 
 ---
