@@ -33,4 +33,4 @@ I am a BTech second-year student with a strong technical curiosity and a solid d
 ![Streamlit](https://img.shields.io/badge/Streamlit-%23FF4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
 
 
-... and more!
+
