@@ -5,14 +5,15 @@ I am a BTech second-year student with a strong technical curiosity and a solid d
 ---
 
 ## 🌐 Socials:
-![Instagram Badge](https://www.instagram.com/m_sachin_15/#)  
-![LinkedIn Badge](https://www.linkedin.com/in/sachin-mishra-325444271/)  
-📧 sachinofficial223204@gamil.com
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/m_sachin_15/)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sachin-mishra-325444271/)
+[![Email Badge](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sachinofficial223204@gmail.com)
 
 ---
 
 ## 🏆 DSA:
-![LeetCode Badge](https://leetcard.jacoblin.cool/Dee223204?theme=dark&font=Baloo+Bhai&ext=heatmap)
+[![LeetCode Badge](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Dee223204/)
+
 
 
 ---
@@ -33,5 +34,7 @@ I am a BTech second-year student with a strong technical curiosity and a solid d
 ![OpenCV](https://img.shields.io/badge/OpenCV-%235C3EE8.svg?style=for-the-badge&logo=opencv&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-%23FF4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
 
+
+---
 
 
