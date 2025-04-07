@@ -35,7 +35,6 @@ I am a BTech second-year student with a strong technical curiosity and a solid d
 ![Seaborn](https://img.shields.io/badge/Seaborn-%231E90FF.svg?style=for-the-badge&logo=python&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-%235C3EE8.svg?style=for-the-badge&logo=opencv&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-%23FF4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
 
 
 ---
