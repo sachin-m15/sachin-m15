@@ -3,7 +3,7 @@
 ## ✏️ About Me:
 I am a BTech second-year student with a strong technical curiosity and a solid drive to build meaningful projects. I am passionate about blending theory with hands-on application. I am not afraid to get deep into the weeds of implementation—working with SFML in C++, TensorFlow in Python, and exploring tools like Streamlit and Gradio to enhance UI/UX.
 
-![Language Demo](https://github.com/your-username/your-repo-name/blob/main/lang.gif?raw=true)
+![Greeting GIF](https://github.com/your-username/your-repo-name/blob/main/lang.gif?raw=true)
 
 
 ---
